@@ -1,0 +1,38 @@
+.a011 {
+    width: 200px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #DDE6ED;
+}
+
+.a1 {
+  color: #27374D;
+   font-family: Comic Sans MS;
+}
+
+
+h3 {
+  color: #526D82;
+  font-family: Comic Sans MS;
+}
+
+
+.a003 {
+  font-family: Comic Sans MS;
+}
+
+.a004 {
+  font-size: 12px;
+}
+
+hr {
+  width: 99%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.a005 {
+  color: #99A98F;
+}
